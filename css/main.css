@@ -1,1 +1,11 @@
-/* Place CSS styles here */
+body{
+    background-size 300px;
+    background-image: url(../img/jungle.jpg)
+}
+p {
+    color: aliceblue;
+    position: center;
+}
+h1{
+    position: center;
+}
