@@ -16,4 +16,5 @@ p{
 h2 {
     color: chartreuse;
     text-align: center;
+    block-size: auto;
 }
