@@ -1,5 +1,5 @@
 body{
-    background-size 300px;
+    background-size: contain;
     background-image: url(../img/jungle.jpg)
 }
 p {
@@ -7,5 +7,13 @@ p {
     position: center;
 }
 h1{
-    position: center;
+    text-align: center;
+    color: chartreuse;
+}
+p{
+    text-align: center;
+}
+h2 {
+    color: chartreuse;
+    text-align: center;
 }
