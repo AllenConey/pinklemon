@@ -38,3 +38,35 @@ ul.c{
     list-style: circle;
     color: aliceblue;
 }
+div.container {
+    text-align: center;
+  }
+
+  a:link {
+    color: orange;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: chocolate;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+div.ending {
+    text-align: center;
+  }
+
+
+
+
