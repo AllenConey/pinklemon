@@ -3,12 +3,12 @@ body{
     background-image: url(../img/d1.jpeg)
 }
 p {
-    color: aliceblue;
+    color: white;
     position: center;
 }
 h1{
     text-align: center;
-    color: gold;
+    color: goldenrod;
 }
 p{
     text-align: center;
